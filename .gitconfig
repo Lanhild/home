@@ -1,0 +1,12 @@
+[user]
+        email = loanj@naver.com
+        name = Lanhild
+        signingkey = 21EAFFD1BC9161C6A5899B0DACFDA4188ACE7CE7
+[init]
+        defaultBranch = main
+[alias]
+        c = commit -S -a
+        a = add .
+[core]
+        editor = vim
+
