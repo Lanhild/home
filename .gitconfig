@@ -8,5 +8,5 @@
         c = commit -S -a
         a = add .
 [core]
-        editor = vim
+        editor = vi
 
